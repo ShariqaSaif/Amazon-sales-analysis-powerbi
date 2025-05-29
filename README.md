@@ -4,7 +4,7 @@ Power BI dashboard project for analyzing Amazon sales data using interactive vis
 
 This Power BI project analyzes Amazon sales data across multiple dimensions, offering interactive insights into performance by date, category, city, and product types.
 
-![Dashboard Preview](ScreenShot_Amazon_Sales.png)
+
 
 ---
 
